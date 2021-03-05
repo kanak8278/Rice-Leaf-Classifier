@@ -1,6 +1,8 @@
 # Rice-Leaf-Classifier
 Classifying Paddy Leaves for Detection different types of diseases.
 
+![](./Image.png)
+
 Disease identification is one of the major solutions to
 improve the productivity. This also helps to select the
 pesticides and prevent from further spreading. Early
@@ -12,6 +14,8 @@ The images were classified in 8 classes:
 
 Bacterial_Leaf_Blight, BrownSpot, False_Smut, Healthy-Others, Hispa, LeafBlast, Neck_Blast, Sheath_Blight_Rot
 
+On test data Accuracy is around 85%.
+![Image](./Confusion_matrix.png)
 
 I got the idea from a video shared on Tensorflow Youtube Channel on Cassava Leaf Disease Prediction.
 
